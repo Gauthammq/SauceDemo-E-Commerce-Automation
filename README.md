@@ -11,7 +11,7 @@ Automated end-to-end tests for [saucedemo.com](https://www.saucedemo.com/) using
 ## 🔧 Setup
 
 ```bash
-git clone <repo-url>
+git clone [<repo-url>](https://github.com/Gauthammq/SauceDemo-E-Commerce-Automation)
 cd saucedemo_automation
 python -m venv venv
 source venv/bin/activate  # or venv\Scripts\activate (Windows)
