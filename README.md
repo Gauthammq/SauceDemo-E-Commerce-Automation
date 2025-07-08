@@ -38,6 +38,11 @@ git clone [https://github.com/yourusername/saucedemo_automation.git]
 pytest --html=reports/report.html
 ```
 ---
+3. **▶️Run specific test file**
+```bash
+pytest tests/test_checkout.py --html=reports/report.html
+```
+---
 
 ## 🧠 Best For QA Engineers building a real-world portfolio
 
