@@ -44,13 +44,6 @@ pytest tests/test_checkout.py --html=reports/report.html
 ```
 ---
 
-## 🧠 Best For QA Engineers building a real-world portfolio
-
-- 🎯 Interview presentations  
-- 🛠️ Practice with Playwright and PyTest framework  
-- 🧩 Demonstrating clean automation design patterns (like POM)
-
----
 
 ## 🏷️ Tags
 
