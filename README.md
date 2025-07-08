@@ -30,10 +30,11 @@ This project automates a complete user journey including login, adding products 
 1. **Clone the repository**
 ```bash
 git clone [https://github.com/yourusername/saucedemo_automation.git]
-
+```
 ---
 
-## ▶️ How to Run Tests
+2. **▶️ How to Run Tests**
+```bash
 pytest --html=reports/report.html
 ```
 ---
