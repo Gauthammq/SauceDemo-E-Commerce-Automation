@@ -38,7 +38,7 @@ pytest --html=reports/report.html
 ```
 ---
 
-#🧠 Best For QA Engineers building a real-world portfolio
+# 🧠 Best For QA Engineers building a real-world portfolio
 
 Interview presentations
 Practice with Playwright and PyTest framework
@@ -47,7 +47,7 @@ Demonstrating clean automation design patterns (like POM)
 🏷️ Tags
 playwright-python pytest ecommerce-automation qa-portfolio end-to-end-testing POM html-report playwright-e2e
 
-#👨‍💻 Author
+## 👨‍💻 Author
 Gautham Krishna
 QA Automation Engineer
 
