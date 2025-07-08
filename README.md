@@ -35,7 +35,7 @@ git clone [https://github.com/yourusername/saucedemo_automation.git]
 
 ## ▶️ How to Run Tests
 pytest --html=reports/report.html
-
+```
 ---
 
 ##🧠 Best For QA Engineers building a real-world portfolio
@@ -53,4 +53,4 @@ playwright-python pytest ecommerce-automation qa-portfolio end-to-end-testing PO
 Gautham Krishna
 QA Automation Engineer
 
-[Linkedin]((https://in.linkedin.com/in/gautham-krishna-r-97a318314))
+[Linkedin](https://in.linkedin.com/in/gautham-krishna-r-97a318314)
