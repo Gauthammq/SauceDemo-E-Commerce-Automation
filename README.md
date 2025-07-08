@@ -31,13 +31,14 @@ This project automates a complete user journey including login, adding products 
 ```bash
 git clone [https://github.com/yourusername/saucedemo_automation.git]
 
+---
 
-# ▶️ How to Run Tests
+## ▶️ How to Run Tests
 pytest --html=reports/report.html
 
+---
 
-
-#🧠 Best For QA Engineers building a real-world portfolio
+##🧠 Best For QA Engineers building a real-world portfolio
 
 Interview presentations
 
