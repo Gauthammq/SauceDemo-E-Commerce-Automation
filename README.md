@@ -51,4 +51,5 @@ playwright-python pytest ecommerce-automation qa-portfolio end-to-end-testing PO
 👨‍💻 Author
 Gautham Krishna
 QA Automation Engineer
-https://in.linkedin.com/in/gautham-krishna-r-97a318314
+
+[Linkedin]((https://in.linkedin.com/in/gautham-krishna-r-97a318314))
