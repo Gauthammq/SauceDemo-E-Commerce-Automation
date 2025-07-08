@@ -1,19 +1,38 @@
-# 🧪 Saucedemo Automation - Playwright + Python
+# 🧪 SauceDemo E-Commerce Automation (Playwright + Python + PyTest)
 
-Automated end-to-end tests for [saucedemo.com](https://www.saucedemo.com/) using Playwright with Python and PyTest.
+Automated end-to-end testing framework for [SauceDemo](https://www.saucedemo.com/), built using **Playwright**, **Python**, and **PyTest**, following the **Page Object Model (POM)** architecture.
 
-## ✅ Features
-- Page Object Model structure
-- PyTest-based test execution
-- HTML reporting
-- Covers login, cart, checkout flow
+This project automates a complete user journey including login, adding products to the cart, and completing the checkout process. It generates test reports using `pytest-html`.
 
-## 🔧 Setup
+---
 
+## 🚀 Features
+
+- 🔐 Login automation (valid & invalid users)
+- 🛍️ Add-to-cart and cart validation
+- 💳 Complete checkout workflow
+- ✅ Modular codebase using Page Object Model (POM)
+- 📄 HTML report generation with `pytest-html`
+- 💡 Scalable structure for QA portfolios & real-world projects
+
+---
+## 🧰 Tech Stack
+
+- **Language**: Python
+- **Automation Tool**: Playwright
+- **Test Framework**: PyTest
+- **Reporting**: pytest-html (optionally: Allure)
+
+---
+
+## 🔧 Installation & Setup
+
+1. **Clone the repository**
 ```bash
-git clone [<repo-url>](https://github.com/Gauthammq/SauceDemo-E-Commerce-Automation)
-cd saucedemo_automation
-python -m venv venv
-source venv/bin/activate  # or venv\Scripts\activate (Windows)
-pip install -r requirements.txt
-playwright install
+git clone [https://github.com/yourusername/saucedemo_automation.git]
+
+
+# ▶️ How to Run Tests
+pytest --html=reports/report.html
+
+
